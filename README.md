@@ -14,3 +14,4 @@
   * **Notebook 1:** basic IO, variables, boolean expressions
   * **Notebook 2:** flow control and indexing
   * **Notebook 3:** lists and for loops
+  * **Notebook 4:** range, zip, enumerate, and useful string methods
