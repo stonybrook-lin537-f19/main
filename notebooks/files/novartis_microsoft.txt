@@ -1,0 +1,3 @@
+Novartis and Microsoft announced they are joining forces to apply artificial intelligence to some of the most intractable problems in healthcare, in one of the most expansive tie-ups so far between big pharma and big tech.
+Under one part of the five-year agreement, which will be reviewed annually, Microsoft will work on new tools intended to make it easier to apply AI to all areas of the Swiss pharmaceutical company’s business, from finance to manufacturing.
+A second part of the work will focus on using deep learning — the technique that has brought the biggest recent advances in AI — to improve the speed and precision with which it develops new medicines.
