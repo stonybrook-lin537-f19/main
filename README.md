@@ -15,3 +15,6 @@
   * **Notebook 2:** flow control and indexing
   * **Notebook 3:** lists and for loops
   * **Notebook 4:** range, zip, enumerate, and useful string methods
+  * **Notebook 5:** dictionaries and list comprehensions
+  * **Notebook 6:** file IO
+  * **Notebook 7:** while, break, continue [to be added]
