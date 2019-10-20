@@ -18,4 +18,5 @@
   * **Notebook 5:** dictionaries and list comprehensions
   * **Notebook 6:** file IO
   * **Notebook 7:** while, break, continue
-  * **Notebook 8:** function definitions \[to be added\]
+  * **Notebook 8:** function definitions
+  * **Notebook 9:** classes and inheritance \[to be added\]
