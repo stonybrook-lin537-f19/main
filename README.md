@@ -19,4 +19,5 @@
   * **Notebook 6:** file IO
   * **Notebook 7:** while, break, continue
   * **Notebook 8:** function definitions
-  * **Notebook 9:** classes and inheritance \[to be added\]
+  * **Notebook 9:** classes and inheritance \[in progress\]
+  * **Notebook 10:** regular expressions \[to be added\]
