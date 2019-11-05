@@ -5,6 +5,7 @@
 |**Instructor:**    | Alëna Aksënova               |
 |**Email:**         | alena.aksenova@stonybrook.edu|
 |**Class times:**   | MW 2:30-3:50 pm              |
+|**Class location:** | CompLab                     |
 |**Coding practice:** | M 11:00 am - 12:00 pm      |
 |**Office hours:** | M 12:00-1:00 pm; W 4:00-5:00 pm |
 |**Office number:** | SBS N210 |
@@ -19,5 +20,6 @@
   * **Notebook 6:** file IO
   * **Notebook 7:** while, break, continue
   * **Notebook 8:** function definitions
-  * **Notebook 9:** classes and inheritance \[in progress\]
-  * **Notebook 10:** regular expressions \[to be added\]
+  * **Notebook 9:** classes and inheritance
+  * **Notebook 10:** regular expressions \[in progress\]
+  * **Notebook 11:** finite state machines \[to be added\]
