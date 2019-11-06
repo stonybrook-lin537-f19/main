@@ -22,5 +22,5 @@
   * **Notebook 8:** function definitions
   * **Notebook 9:** classes and inheritance
   * **Notebook 10:** regular expressions
-  * **Notebook 11:** finite state automata \[in progress\]
-  * **Notebook 11:** finite state transducers \[to be added\]
+  * **Notebook 11:** finite state automata
+  * **Notebook 12:** finite state transducers \[to be added\]
