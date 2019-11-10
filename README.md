@@ -23,4 +23,5 @@
   * **Notebook 9:** classes and inheritance
   * **Notebook 10:** regular expressions
   * **Notebook 11:** finite state automata
-  * **Notebook 12:** finite state transducers \[to be added\]
+  * **Notebook 12:** finite state transducers
+  * **Notebook 13:** measuring string distances \[to be added\]
