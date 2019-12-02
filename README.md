@@ -26,4 +26,4 @@
   * **Notebook 15:** trees and tree traversals
   * **Notebook 16:** Brill tagger
   * **Notebook 17:** CKY parser \[to be added\]
-  * **Notebook 18:** Other topics (precision/recall, tf-idf, Big O) \[to be added\]
+  * **Notebook 18:** other topics (precision/recall, tf-idf, Big O) \[to be added\]
