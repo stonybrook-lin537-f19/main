@@ -23,4 +23,7 @@
   * **Notebook 12:** finite state transducers
   * **Notebook 13:** measuring string distances
   * **Notebook 14:** prefix trees
-  * **Notebook 15:** trees and tree traversals \[to be added\]
+  * **Notebook 15:** trees and tree traversals
+  * **Notebook 16:** Brill tagger
+  * **Notebook 17:** CKY parser \[to be added\]
+  * **Notebook 18:** Other topics (precision/recall, tf-idf, Big O) \[to be added\]
